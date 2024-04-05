@@ -44,7 +44,7 @@ def load_and_prepare_data(csv_file):
         return None
 
 ############### Applying multi-label encoding for ProductFeaturesUsed 
-# Assuming 'ProductFeaturesUsed' contains strings of features separated by commas
+# 'ProductFeaturesUsed' contains strings of features separated by commas
 # Split the 'ProductFeaturesUsed' column into a list of features
 def encode_product_features(df):
     df['ProductFeaturesUsed'] = df['ProductFeaturesUsed'].apply(lambda x: x.split(','))
