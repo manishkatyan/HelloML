@@ -1,0 +1,21 @@
+Industry,Size,WebsiteVisits,EmailOpens,KeyDecisionMaker,Title,Department,TechnologyStack,DecisionMaking,RecentFunding,LeadershipChange,ProductFeaturesUsed,PastTransactions,CustomerSatisfactionScore
+Education,200,10,5,John Doe,CTO,IT,wordpress,Centralized,5 million,No,"analytics, monitoring",3,8
+Technology,50,15,10,Jane Smith,CEO,Administration,moodle,Decentralized,No,Yes,"online class, quiz",5,9
+Education,100,5,2,Emily Johnson,CTO,Marketing,custom,Centralized,2 million,No,"analytics, poll",4,7
+Technology,500,8,6,Michael Brown,HR,Operations,schoology,Hierarchical,No,Yes,"monitoring, analytics",6,8
+Education,300,12,8,Sarah Wilson,CTO,Finance,wordpress,Committee-based,10 million,No,"analytics, monitoring",7,9
+Technology,250,20,12,Alice Cooper,CEO,IT,moodle,Centralized,15 million,No,"streaming, translation",8,9
+Education,150,7,4,Bob Smith,HR,Administration,custom,Decentralized,No,Yes,"analytics, monitoring",5,7
+Technology,200,9,5,Carol White,CTO,Marketing,schoology,Centralized,3 million,No,"poll, quiz",6,8
+Education,400,18,10,Dan Brown,CEO,Academics,moodle,Hierarchical,5 million,Yes,"online class, quiz",9,9
+Technology,120,11,6,Eve Johnson,HR,Operations,wordpress,Centralized,4 million,No,"monitoring, analytics",4,8
+Education,80,6,3,Frank Miller,CTO,Operations,custom,Decentralized,No,No,"poll, analytics",3,6
+Technology,350,25,15,Gina Harris,CEO,IT,moodle,Centralized,20 million,Yes,"streaming, translation",10,10
+Education,600,10,7,Harry Adams,HR,Production,schoology,Hierarchical,No,No,"monitoring, analytics",7,8
+Technology,280,14,9,Irene Watson,CTO,Finance,wordpress,Committee-based,12 million,No,"analytics, monitoring",8,9
+Education,180,8,4,Jack Taylor,CEO,Administration,custom,Decentralized,No,Yes,"poll, quiz",5,7
+Technology,130,7,3,Kate Wilson,HR,Marketing,schoology,Centralized,3 million,No,"analytics, monitoring",4,6
+Education,450,19,11,Liam Scott,CEO,Academics,moodle,Hierarchical,6 million,No,"online class, quiz",10,10
+Technology,110,10,5,Mia Chen,HR,Services,wordpress,Centralized,2 million,No,"monitoring, analytics",3,7
+Education,90,5,2,Noah Jones,CTO,Marketing,custom,Decentralized,No,Yes,"poll, analytics",2,5
+Technology,300,22,13,Olivia Martinez,CEO,IT,moodle,Centralized,18 million,Yes,"streaming, translation",9,10
